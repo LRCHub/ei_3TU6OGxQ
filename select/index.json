@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Moments",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-03-08T12:19:29.807236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Little Moments",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/01_Little_Moments_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moments",
+      "artist": "Lapalux feat. Py",
+      "has_synced": true,
+      "path": "select/02_Moments_Lapalux_feat._Py.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moments (Feat. PY)",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/03_Moments_(Feat._PY)_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moments in Time",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/04_Moments_in_Time_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Want the Quiet Moments of a Party Girl",
+      "artist": "Owls",
+      "has_synced": false,
+      "path": "select/05_I_Want_the_Quiet_Moments_of_a_Party_Girl_Owls.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Redlight Moments",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/06_Redlight_Moments_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unguarded Moments",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/07_Unguarded_Moments_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moments",
+      "artist": "Lapalux",
+      "has_synced": false,
+      "path": "select/08_Moments_Lapalux.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moments",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/09_Moments_Nas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "These Moments",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/10_These_Moments_Sandra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "These Moments (Album Version)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/11_These_Moments_(Album_Version)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moments (feat. Sebastian Reyman) - Shokstix Remix",
+      "artist": "Darude feat. Sebastian Reyman",
+      "has_synced": false,
+      "path": "select/12_Moments_(feat._Sebastian_Reyman)_-_Shokstix_Remix_Darude_feat._Sebastian_Reyman.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moments (Shokstix remix)",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/13_Moments_(Shokstix_remix)_Darude.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moments (feat. Sebastian Reyman) - Club Mix",
+      "artist": "Darude feat. Sebastian Reyman",
+      "has_synced": false,
+      "path": "select/14_Moments_(feat._Sebastian_Reyman)_-_Club_Mix_Darude_feat._Sebastian_Reyman.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Moments (club mix)",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/15_Moments_(club_mix)_Darude.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moments",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Moments_浜崎_あゆみ.txt"
+    }
+  ]
+}
